@@ -31,9 +31,9 @@ Uma lista de livros
 
 Como executar
 
-1. Ter o Dart instalado na máquina
-2. Abrir o projeto no VS Code
-3. Rodar o seguinte comando no terminal:
+ Ter o Dart instalado na máquina
+ Abrir o projeto no VS Code
+Rodar o seguinte comando no terminal:
 
 dart main.dart
 
